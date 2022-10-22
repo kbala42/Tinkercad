@@ -2,7 +2,7 @@
 
 <H1><i> Tinkercad Simülasyonları</i></H1>
 
-<H2><i>1.Dijital Çıkış (112 program) </H2>
+<H2><i>1.Dijital Çıkış </H2>
 
 <H3>1.1.Led Outputs</H3>
 
@@ -223,7 +223,7 @@ https://www.tinkercad.com/things/deDzOAvMkn0-117274hc595-for-dongusu
 1.17.3.74HC595 - 16 giris/çıkış<br>
 https://www.tinkercad.com/things/47ebqSMAWGX-117374hc595-16-giriscikis
 
-<H2><i>2.Dijital Giriş (Buton) (43 program)</i></H2>
+<H2><i>2.Dijital Giriş (Buton) </i></H2>
 
 <H3>2.1.Button</H3>
 
@@ -382,7 +382,7 @@ https://www.tinkercad.com/things/k0NrzUoT8K7-2131timer-1s
 https://www.tinkercad.com/things/5FYjd10B9PT-2132timer-05s
 
 
-<H2><i>3. Analog Giriş (7 program) </i></H2>
+<H2><i>3. Analog Giriş </i></H2>
 
 <H3>3.1.analogIn_pot</H3>
 

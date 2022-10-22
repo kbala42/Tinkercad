@@ -497,9 +497,6 @@ https://www.tinkercad.com/things/8DAoSpkjsDZ-443pololu-2-potreverse-fade
 4.4.4. Pololu 3 POT.reverse fade burn<br>
 https://www.tinkercad.com/things/fdXGV8assei-444-pololu-3-potreverse-fade-burn
 
-
-<H3>4.5.Vibration Motor</H3>
-
 <H2><i>5. Sensörler</i></H2>
 
 <H3>5.1.Sensors_LDR</H3>

@@ -1,4 +1,4 @@
-# Tinkercad Exaples
+# Tinkercad Examples
 
 <H1><i> Tinkercad Simülasyonları</i></H1>
 

@@ -939,7 +939,7 @@ https://www.tinkercad.com/things/aeHUKDpHJiv-copy-of-fuzzy-logic-kontrol-oksigen
 8.5.7.Fuzzy Logic – 7  Kontrol OksigenFuzzy V.2 ADE<br>
 https://www.tinkercad.com/things/5D1x3PAVvtN-copy-of-fuzzy-v2-ade/editel?tenant=circuits
 
-<H2><i>9.Metters</i></H2>
+<H2><i>9.Meters</i></H2>
 
 <H3>9.1.Ohmmeters</H3>
 
@@ -975,7 +975,7 @@ https://www.tinkercad.com/things/kLENMMMe4im-93arduino-ammeter
 9.3.3.AC Ampermetre<br>
 https://www.tinkercad.com/things/5uQQaopdGD7-92ac-ammeter 
 
-<H3>9.4.Voltmetter+Ammetters</H3>
+<H3>9.4.Voltmeter+Ammeters</H3>
 
 9.4.1.LCD Voltmeter + Ammeter<br>
 https://www.tinkercad.com/things/eDZaMr1Mc5g-94arduino-voltmeter-ammeter
@@ -986,7 +986,7 @@ https://www.tinkercad.com/things/6T90iPH5EGk-94arduino-voltmeter-ammeter l
 9.4.3.Arduino Voltmeter + Ammeter+DC Motor<br>
 https://www.tinkercad.com/things/h7QcYWB2e7m-94arduino-voltmeter-ammeter
 
-<H3>9.5. Watters</H3>
+<H3>9.5. Wattmeters</H3>
 
 9.5.1.LCD Wattmetre<br>
 https://www.tinkercad.com/things/lnghGMN5INj-95jednoduchy-wattmeter-s-lcd
@@ -995,9 +995,9 @@ https://www.tinkercad.com/things/lnghGMN5INj-95jednoduchy-wattmeter-s-lcd
 https://www.tinkercad.com/things/hOaTXuoIDBY-94arduino-power-meter
 
 
-<H3>9.6.Capacitor metters</H3>
+<H3>9.6.Capacitor meters</H3>
 
-9.6.1.Kapasite metre<br>
+9.6.1.Kapasite Metre<br>
 https://www.tinkercad.com/things/jMM3QfYIGT6-95arduino-capacitance-meter
 
 9.6.2.LCD Kapasite metre<br>

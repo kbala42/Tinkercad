@@ -918,7 +918,6 @@ https://www.tinkercad.com/things/1TsISutUvFw-copy-of-pid-arduino
 
 <H3>8.5.Fuzzy Kontrol</H3>
 
-
 8.5.1.Fuzzy Logic -1 FAN controller  <br>
 https://www.tinkercad.com/things/cNz19TbZYpR-copy-of-v3-fuzzy-logic-fan-controller-/editel?tenant=circuits
 
@@ -940,5 +939,82 @@ https://www.tinkercad.com/things/aeHUKDpHJiv-copy-of-fuzzy-logic-kontrol-oksigen
 8.5.7.Fuzzy Logic – 7  Kontrol OksigenFuzzy V.2 ADE<br>
 https://www.tinkercad.com/things/5D1x3PAVvtN-copy-of-fuzzy-v2-ade/editel?tenant=circuits
 
+<H2><i>9.Metters</i></H2>
 
-<H2><i>9. Uygulamalar</i></H2>
+<H3>9.1.Ohmmeters</H3>
+
+9.1.1.Arduino ohm Meter<br>
+https://www.tinkercad.com/things/f12x54zis3D-911arduino-ohm-meter
+
+9.1.2.ohm meter LCD<br>
+https://www.tinkercad.com/things/8lHoxFcdeEE-912ohm-meter-lcd 
+
+
+<H3>9.2.Voltmeters</H3>
+
+9.2.1.Voltmeter<br>
+https://www.tinkercad.com/things/9tOF8J9ZZFA-92arduino-voltmeter
+
+9.2.2.Voltmeter - Low voltage alarm<br>
+https://www.tinkercad.com/things/1OKOrcbAvi2-922voltmeter-low-voltage-alarm 
+
+9.2.3.LCD Voltmeter<br>
+https://www.tinkercad.com/things/459elUfKdsL-92arduino-voltmeter 
+
+9.2.4.AC Voltmeter<br>
+https://www.tinkercad.com/things/9Gn5F0wz5KS-92ac-voltmeter
+
+<H3>9.3.Ammeters</H3>
+
+9.3.1.Ampermetre Kullanımı<br>
+https://www.tinkercad.com/things/8u6WXAcAXiL-93ammeter
+
+9.3.2.LCD Ampermetre<br>
+https://www.tinkercad.com/things/kLENMMMe4im-93arduino-ammeter 
+
+9.3.3.AC Ampermetre<br>
+https://www.tinkercad.com/things/5uQQaopdGD7-92ac-ammeter 
+
+<H3>9.4.Voltmetter+Ammetters</H3>
+
+9.4.1.LCD Voltmeter + Ammeter<br>
+https://www.tinkercad.com/things/eDZaMr1Mc5g-94arduino-voltmeter-ammeter
+
+9.4.2.Voltmeter + Ammeter + Servo<br>
+https://www.tinkercad.com/things/6T90iPH5EGk-94arduino-voltmeter-ammeter l
+
+9.4.3.Arduino Voltmeter + Ammeter+DC Motor<br>
+https://www.tinkercad.com/things/h7QcYWB2e7m-94arduino-voltmeter-ammeter
+
+<H3>9.5. Watters</H3>
+
+9.5.1.LCD Wattmetre<br>
+https://www.tinkercad.com/things/lnghGMN5INj-95jednoduchy-wattmeter-s-lcd
+
+9.5.2.Arduino Micro - Power meter <br>
+https://www.tinkercad.com/things/hOaTXuoIDBY-94arduino-power-meter
+
+
+<H3>9.6.Capacitor metters</H3>
+
+9.6.1.Kapasite metre<br>
+https://www.tinkercad.com/things/jMM3QfYIGT6-95arduino-capacitance-meter
+
+9.6.2.LCD Kapasite metre<br>
+https://www.tinkercad.com/things/kZFxRiQPANU-95arduino-capacitor-meter
+
+<H3>9.7.coil metters</H3>
+
+<H3>9.8.lumen metters</H3>
+
+9.8.1.Lümen Metre<br>
+https://www.tinkercad.com/things/7HxMvJXEh1w-copy-of-lumen-meter
+
+<H3>9.9.Distance metters</H3>
+
+9.9.2.LCD Mesafe Ölçer <br>
+https://www.tinkercad.com/things/48XCwuitqeF-98arduino-distance-meter-with-lcd
+ 
+
+
+<H2><i>10. Uygulamalar</i></H2>

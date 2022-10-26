@@ -83,8 +83,6 @@ https://www.tinkercad.com/things/4nuzdfuWXex-131kullanici-tanimli-fonksiyonlar
 1.3.2.Rastgele Fonksiyonlar ve switch yapısı<br>
 https://www.tinkercad.com/things/dd3GX8Fs6Ut-132rastgele-fonksiyonlar-ve-switch-yapisi
 
-1.3.3.Bir tuşa basınca rastgele led yanıp söndürme<br>
-https://www.tinkercad.com/things/hZh3KGYb39M-133bir-tusa-basinca-rastgele-led-yanip-sondurme
 
 <H3>1.4.RGB</H3>
 1.4.1. RGB temel ayrı üç ledi yakıp söndürme<br>
@@ -171,18 +169,21 @@ https://www.tinkercad.com/things/dGDUXllbpOL-192nmos-transistor-surme-harici-guc
 1.9.3.Led desenlerinde nmos kullanmak <br>
 https://www.tinkercad.com/things/5GFu2O1JsU3-193led-desenlerinde-nmos-kullanmak
 
-
 <H3>1.11.Servo Motor</H3>
-1.11.1.servo motor kontrolü<br>
+
+1.11.1.servo motor kontrolü <br>
 https://www.tinkercad.com/things/0WKMjnKHO6X-1111servo-motor-kontrolu
 
-<br>
-
 <H3>1.12.DC Motor</H3>
+
 1.12.1.DC Motor Çalıştırma<br>
 https://www.tinkercad.com/things/f90vKEGL1xA-1121dc-motor-calistirma
 
-<br>
+1.12.2.DC Motor Çalıştırma – 2<br>
+https://www.tinkercad.com/things/ivoiJVFakXV-1122dc-motor-calistirma-2
+
+1.12.3.DC Motor Çalıştırma – 3<br>
+https://www.tinkercad.com/things/l6Ye7xWWGzA-1123dc-motor-calistirma-3
 
 <H3>1.13.relay</H3>
 1.13.1.relay and bulb<br>
@@ -247,8 +248,21 @@ https://www.tinkercad.com/things/54VArqZIIWB-216buton-ile-harici-kesme
 
 
 <H3>2.2.Buton ve Fonksiyonlar</H3>
+
 2.2.1.Butonlarla Fonksiyonların kullanımı<br>
 https://www.tinkercad.com/things/82qAVVezbaU-221butonlarla-fonksiyonlarin-kullanimi
+
+2.2.2.yazi_tura<br>
+https://www.tinkercad.com/things/bSXW0uLZwUY-222yazitura
+
+2.2.3.Merdiven Otomatiği<br>
+https://www.tinkercad.com/things/7fnUoSET70y-223merdiven-otomatigi
+
+2.2.4. Buton ile RGB temel renkler<br>
+https://www.tinkercad.com/things/6BR3gkIEA36-224-buton-ile-rgb-temel-renkler
+
+2.2.5.Bir tuşa basınca rastgele led yanıp söndürme<br>
+https://www.tinkercad.com/things/hZh3KGYb39M-225bir-tusa-basinca-rastgele-led-yanip-sondurme
 
 
 <H3>2.3.Sayaç (Counter)</H3>
@@ -274,6 +288,13 @@ https://www.tinkercad.com/things/33kNEahR6Bw-242buzzer-sut-ictim-dilim-yandi
 
 2.4.3.buzzer ile org yapımı<br>
 https://www.tinkercad.com/things/0L0oa5UJnxG-243buzzer-ile-org-yapimi
+
+2.4.4.kapi açılma uyarısı<br>
+https://www.tinkercad.com/things/1lwO4hlYc16-244kapi-acilma-uyarisi
+
+2.4.5.Kapı Melodisi<br>
+https://www.tinkercad.com/things/b0LIRe6cIGV-245kapi-melodisi
+
 
 <H3>2.5. Millis</H3>
 2.5.1.Tek ledi yakıp söndürme _ tek gecikme<br>
@@ -409,6 +430,10 @@ https://www.tinkercad.com/things/hl99EDWv13x-314-axis-robot-arm/editel
 
 3.1.8. potlarla ile 6 eksen kontrolü<br>
 https://www.tinkercad.com/things/hCPLTYBaHVl-317-potlarla-ile-6-eksen-kontrolu/editel 
+
+3.1.9. Yanıp sönme hızını potla ayarlama<br>
+https://www.tinkercad.com/things/2LJIhFafSzS-319-yanip-sonme-hizini-potla-ayarlama
+
 
 <H2><i>4. Analog Çıkış</i></H2>
 

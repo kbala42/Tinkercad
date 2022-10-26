@@ -522,6 +522,14 @@ https://www.tinkercad.com/things/8DAoSpkjsDZ-443pololu-2-potreverse-fade
 4.4.4. Pololu 3 POT.reverse fade burn<br>
 https://www.tinkercad.com/things/fdXGV8assei-444-pololu-3-potreverse-fade-burn
 
+<H3>4.5.PWM ile değişik uygulamalar</H3>
+
+4.5.1.Ayarlanabilir ton çıkışı<br>
+https://www.tinkercad.com/things/3VmZz0Qz5Oe-451ayarlanabilir-ton-cikisi 
+
+4.5.2.Lamba flaşör <br>
+https://www.tinkercad.com/things/1HXwwTfjIxp-452lamba-flasor
+
 <H2><i>5. Sensörler</i></H2>
 
 <H3>5.1.Sensors_LDR</H3>
@@ -545,6 +553,9 @@ https://www.tinkercad.com/things/f9aBVbMidpb-516ldr-ile-karanlik-arttikca-ledler
 
 ç.5.1.7.ldr ile rgb led kontrolü<br>
 https://www.tinkercad.com/things/aty5Srce6aD-517ldr-ile-rgb-led-kontrolu
+
+5.1.8. Yanıp sönme hızını ışık şiddetine göre ayarlama<br>
+https://www.tinkercad.com/things/4DMahiGHNMT-518-yanip-sonme-hizini-isik-siddetine-gore-ayarlama
 
 <H3>5.2.Sensors_PIR</H3>
 5.2.1.PIR_hareket algılama<br>
@@ -605,7 +616,7 @@ https://www.tinkercad.com/things/1KdnrTL5AHH-548l293-ultrasonik
 5.4.9. Ultrasonik sensörle yön kontrolü<br>
 https://www.tinkercad.com/things/8X7LuClIMo2-549l293d/editel
 
-5.5.10.Ultrasonic Distance Sensor LED Bar Graph (Blocks)<br>
+5.4.10.Ultrasonic Distance Sensor LED Bar Graph (Blocks)<br>
 https://www.tinkercad.com/things/j35IjdsDf59-5510ultrasonic-distance-sensor-led-bar-graph-block
 
 <H3>5.5.IR sensor</H3>
@@ -874,7 +885,7 @@ https://www.tinkercad.com/things/eOgS8PA2giF-copy-of-bruno-i2c-drukknop-8-leds
 7.7.I2C ile slave numaratör<br>
 https://www.tinkercad.com/things/kkpSIZ64JGo-copy-of-05-i2c/editel
 
-7.8.I2C ile slave numaratör – 2
+7.8.I2C ile slave numaratör – 2<br>
 https://www.tinkercad.com/things/9rUIbyg76Al-78i2c-ile-slave-numarator-2
 
 7.9.I2C ile 3x servo motor kontrol<br>
@@ -883,8 +894,22 @@ https://www.tinkercad.com/things/gAzb1KDWgG1-copy-of-i2c-controlled-micro-servo
 7.10.I2C ile otomasyon<br>
 https://www.tinkercad.com/things/6gj2v1qaJS7-copy-of-i2c-datenuebertragung-und-verbraucher-schalten 
 
-<H2><i>8.proses kontrol</i></H2>
+7.11.1.I2C LCD Ekranın Çalışması<br>
+https://www.tinkercad.com/things/h2LRIp16Pvs-7111i2c-lcd-ekranin-calismasi
 
+7.11.2.I2C LCD Ekranında Kaydırma<br>
+https://www.tinkercad.com/things/71VjLMfJthB-7112i2c-lcd-ekraninda-kaydirma
+
+7.11.3.I2C LCD x 3 panel kullanımı<br>
+https://www.tinkercad.com/things/hnCHACDMorS-copy-of-lcd-i2c
+
+7.12.1.I2C üzerinden tek LCD ye yazdırma<br>
+https://www.tinkercad.com/things/kRb9SPvhTYD-copy-of-lcd-i2c 
+
+7.13.1.i2c üzerinden 2x lcd kontrolü<br>
+https://www.tinkercad.com/things/iBVH4xxT2LT-copy-of-i2c-lcd
+
+<H2><i>8.proses kontrol</i></H2>
 
 <H3> 8.1.proportional-oransal kontrol</H3>
 
@@ -974,7 +999,6 @@ https://www.tinkercad.com/things/f12x54zis3D-911arduino-ohm-meter
 9.1.2.ohm meter LCD<br>
 https://www.tinkercad.com/things/8lHoxFcdeEE-912ohm-meter-lcd 
 
-
 <H3>9.2.Voltmeters</H3>
 
 9.2.1.Voltmeter<br>
@@ -1040,6 +1064,13 @@ https://www.tinkercad.com/things/7HxMvJXEh1w-copy-of-lumen-meter
 9.9.2.LCD Mesafe Ölçer <br>
 https://www.tinkercad.com/things/48XCwuitqeF-98arduino-distance-meter-with-lcd
  
+9.10.Transistör Test 
+
+9.10.1.NPN Kontrol
+https://www.tinkercad.com/things/eQzhh0uwNFr-961npn-kontrol
+
+9.10.2.PNP Kontrol
+https://www.tinkercad.com/things/fvumAYfKEpz-9102pnp-kontrol
 
 
 <H2><i>10. Uygulamalar</i></H2>

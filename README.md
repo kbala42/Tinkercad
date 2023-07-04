@@ -2,6 +2,7 @@
 
 <H1><i> Tinkercad Simülasyonları</i></H1>
 
+800 circuits<br>
 https://www.tinkercad.com/users/1qCGBfdaYsg-kamilbala?category=circuits&sort=likes&view_mode=default<br>
 
 Fundementals C, C++<br>

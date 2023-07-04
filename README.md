@@ -2,6 +2,8 @@
 
 <H1><i> Tinkercad Simülasyonları</i></H1>
 
+https://www.tinkercad.com/users/1qCGBfdaYsg-kamilbala?category=circuits&sort=likes&view_mode=default<br>
+
 <H2><i>1.Dijital Çıkış </H2>
 
 <H3>1.1.Led Outputs</H3>
